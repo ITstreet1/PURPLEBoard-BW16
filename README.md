@@ -30,7 +30,7 @@ PURPLEBoard BW16 is a development board based on BW16 module. It has all feature
   * RST
 * Orange LED
 * Micro USB UART port
-* UART sellect switch
+* UART select switch
 
 ![20220527_163823](https://user-images.githubusercontent.com/30090189/170724443-bb44c223-ce93-4176-884c-e66b2f017f8a.jpg)
 
